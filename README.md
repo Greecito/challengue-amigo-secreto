@@ -97,7 +97,7 @@
 ---
 
 ¡Gracias por usar **Sorteo del Amigo Secreto**! 🎉  
-Desarrollado por: [Gonzalo Benavides Ramírez]
-📧 Contacto: [Lgbenavid@gmail.com]
+Desarrollado por: [Grados Garcia Anthony]
+📧 Contacto: [luisfavio0@gmail.com]
 
 #AluraLatam y #oraclenexteducation!
